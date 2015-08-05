@@ -1,0 +1,2 @@
+# litedb
+A light database
